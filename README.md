@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Devanand Borhade
 
-<!--
-**mrdevanand/mrdevanand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | PHP | Laravel | CodeIgniter | MERN | AWS
 
-Here are some ideas to get you started:
+I build scalable web applications and deploy production-ready systems on AWS.
+Passionate about clean code, backend logic, and cloud automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+- 🔭 Working on web applications & DevOps
+- 🌱 Learning advanced AWS & system design
+- 💬 Ask me about PHP, Laravel, MySQL, EC2, Nginx
+- 📍 Pune, India
+
+---
+
+## 🛠 Tech Stack
+
+**Backend**
+- PHP, Laravel, CodeIgniter, Node.js
+
+**Frontend**
+- React.js, JavaScript, HTML, CSS
+
+**Database**
+- MySQL
+
+**Cloud & DevOps**
+- AWS EC2, S3, IAM
+- Linux, Nginx, Apache
+
+---
+
+## 📂 Featured Projects
+- 🔹 **Laravel CRUD App**
+- 🔹 **MERN Stack Project**
+- 🔹 **AWS EC2 Deployment**
+- 🔹 **Document Management System**
+- 🔹 **OCR Automation**
+
+(Details inside pinned repositories 👇)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrdevanand&show_icons=true&theme=default)
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/devanand-borhade-62551a207/
+- ✉ Email: vishalborhade3831@gmail.com
